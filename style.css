@@ -4,7 +4,7 @@
     --main-color:#d3ad7f;
     --background:#010103;
     --black:#12121a;
-    --border:0.1rem solid rgba(255,255,255,0.3)
+    --border:0.15rem solid rgba(255,255,255,0.3)
 }
 *{
     margin: 0;
